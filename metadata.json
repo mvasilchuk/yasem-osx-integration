@@ -1,0 +1,6 @@
+{
+  "name":"OS X integration plugin",
+  "version": "0.1",
+  "id": "os-x-integration",
+  "roles": ["integration"]
+}
